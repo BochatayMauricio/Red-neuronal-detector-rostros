@@ -1,6 +1,6 @@
 .vscode
 /model_laboratory/dataset/
 /runs/
-/__pycache__
+/__pycache__/
 /model_laboratory/data.yaml
 
